@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vinoth-p-27986a233" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vinoth p" height="20" width="80" /></a>
 <a href="https://instagram.com/mr_vinxth" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mr_vinxth" height="20" width="80" /></a>
-<a href="https://www.hackerrank.com/@vinothpadmanaba1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@vinothpadmanaba1" height="20" width="80" /></a>
+<a href="https://www.hackerrank.com/vinothpadmanaba1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="vinothpadmanaba1" height="20" width="80" /></a>
 <a href="https://www.sololearn.com/profile/26867795" target="blank"><img align="center" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="vinoth" height="20" width="80" /></a>
 </p>
 
