@@ -14,7 +14,7 @@
      | Java
      | SQL 
      | Data Science 
-- 📫 How to reach me **vinothpadmanaban45@gmail.com**
+- 📫 How to reach me **vinoth.pad100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
